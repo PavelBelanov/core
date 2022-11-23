@@ -1,0 +1,2 @@
+CREATE SCHEMA `rubelanov` DEFAULT CHARACTER SET utf8 ;
+
